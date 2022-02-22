@@ -29,7 +29,7 @@ def gamerun(max, cheatmode=False):
 
 print("welcome to the guessing game by voblog")
 
-name = input("enter your nAme: ")
+name = input("enter your name: ")
 print(f"hello {name}!")
 
 # pick a random number
